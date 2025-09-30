@@ -1,9 +1,10 @@
-import Todo from "./ToDo"
+import DigClo from './ToDo.jsx';
+
 
 function App() {
   return(
-    <Todo/>
+    <DigClo/>
   );
 }
 
-export default App
+export default App;
